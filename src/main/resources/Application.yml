@@ -1,0 +1,8 @@
+github:
+  baseUrl: https://api.github.com
+  organization: spring-projects
+  token: YOUR_GITHUB_TOKEN
+  perPage: 100
+
+server:
+  port: 8080
